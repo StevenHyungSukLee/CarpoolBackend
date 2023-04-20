@@ -1,0 +1,16 @@
+1.need to install
+npm install nodemailer
+npm install express
+npm install dotenv
+npm install mongoose
+npm install bcrypt
+npm install validator 
+npm install jsonwebtoken
+npm install multer@1.4.4
+npm install multer-gridfs-storage
+
+2. how to start server
+cd Backend
+npm run dev
+
+
